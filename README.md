@@ -1,0 +1,2 @@
+<!-- repo for the odin-recipes project, in this project I will be putting what I currently know to the test by completing the project to the best of my ability  -->
+<!-- my current skillset includes: basic git(hub) usage, somewhat decent knowledge on how to use the linux terminal, CSS basics such as :  writing a boilerplate from memory, paragaphs, headers, titles, links and images -->
